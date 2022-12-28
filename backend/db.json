@@ -1,0 +1,28 @@
+{
+  "const": [
+    {
+      "name": "hammad",
+      "email": "hammad@gmail.com",
+      "password": "222",
+      "dob": "2022-12-08",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "daniyal",
+      "email": "daniyal@gmail.com",
+      "password": "111",
+      "dob": "2022-12-08",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "hafiz",
+      "email": "hafiz@gmail.com",
+      "password": "111",
+      "dob": "2022-12-08",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
